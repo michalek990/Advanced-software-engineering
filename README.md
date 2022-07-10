@@ -39,8 +39,9 @@ wożą paczki miedzy magazynami, zatrudniani są na pełen etat.
 Paczki przewożone są w przypadku kiedy są przydzielone one do dostarczenia do innej
 placówki. Kierowcy jeżdżą naszymi specjalnie oznaczonymi samochodami ciężarowymi.
 
-PRZYPADKI UŻYCIA
+# PRZYPADKI UŻYCIA
 Lista przypadków użycia dla “Administratora”:
+---
 1. Utworzenie konta dla nowego pracownika - dodanie do systemu wewnętrznego
 nowego pracownika.
 2. Dezaktywacja konta pracownika - usunięcie konta danego pracownika.
