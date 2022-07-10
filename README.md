@@ -9,7 +9,8 @@ Również bardzo przykładamy uwagę do jakości naszego transportu. Każda pacz
 przewożona jest w bezpieczny sposób oraz dbamy o to aby nie została uszkodzona w
 transporcie lub w trakcie kontaktu z paczkomatem.
 
-### Dział administracji odpowiada za poprawnie działanie aplikacji. Odpowiada za
+ ### Dział administracji 
+odpowiada za poprawnie działanie aplikacji. Odpowiada za
 bezpieczeństwo i poprawność danych w systemie. Zajmuję się również sprawdzaniem kont
 kierowców - ich postępów, ilości ukończonych przejazdów oraz uszkodzeń jakie
 spowodowali.
