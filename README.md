@@ -9,17 +9,22 @@ Również bardzo przykładamy uwagę do jakości naszego transportu. Każda pacz
 przewożona jest w bezpieczny sposób oraz dbamy o to aby nie została uszkodzona w
 transporcie lub w trakcie kontaktu z paczkomatem.
 
- ### Dział administracji 
-odpowiada za poprawnie działanie aplikacji. Odpowiada za
+---
+
+Dział administracji odpowiada za poprawnie działanie aplikacji. Odpowiada za
 bezpieczeństwo i poprawność danych w systemie. Zajmuję się również sprawdzaniem kont
 kierowców - ich postępów, ilości ukończonych przejazdów oraz uszkodzeń jakie
 spowodowali.
+
+---
 
 Dział Produkcji dba o rozładunek paczek na magazynie. Następnie są one
 segregowane oraz rozdzielane na konkretne działy, z których wyruszają hurtowo do
 konkretnych miast.
 
-Dział logistyki zajmuje się porządkiem wśród floty naszych kierowców. Każdy
+Dział logistyki 
+---
+zajmuje się porządkiem wśród floty naszych kierowców. Każdy
 kierowca, aby rozpocząć pracę musi przejść testy oraz okazać potrzebne dokumenty.
 Każdemu kierowcy w aplikacji przysługuje auto służbowe lub jest w stanie jeździć swoim
 autem, które spełnia określone wymogi.
