@@ -38,3 +38,14 @@ Kierowcy wewnętrzni
 wożą paczki miedzy magazynami, zatrudniani są na pełen etat.
 Paczki przewożone są w przypadku kiedy są przydzielone one do dostarczenia do innej
 placówki. Kierowcy jeżdżą naszymi specjalnie oznaczonymi samochodami ciężarowymi.
+
+PRZYPADKI UŻYCIA
+Lista przypadków użycia dla “Administratora”:
+1. Utworzenie konta dla nowego pracownika - dodanie do systemu wewnętrznego
+nowego pracownika.
+2. Dezaktywacja konta pracownika - usunięcie konta danego pracownika.
+3. Dodanie danych nowego obiektu - dodanie rekordu do bazy danych.
+4. Edycja danych istniejącego obiektu - usuwanie i zmienianie danych istniejących
+rekordów w bazie danych.
+5. Weryfikacja konta kuriera - zweryfikowanie nowo założonego konta przez osobę
+która chce zostać kurierem w Express Paczka
