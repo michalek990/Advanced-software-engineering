@@ -43,14 +43,18 @@ placówki. Kierowcy jeżdżą naszymi specjalnie oznaczonymi samochodami cięża
 ● Administrator - osoba odpowiedzialna za utrzymanie, konfigurowanie i
 zarządzanie systemem. Posiada konto o wysokich uprawnieniach dające mu
 możliwość administrowania funkcjami i procesami występującymi w systemie.
+
 ● Kierowca - osoba odpowiedzialna za transport paczek pomiędzy sortowniami
 rozmieszczonymi na terenie kraju. Jest pracownikiem etatowym i do
 wykonywania swojej pracy wykorzystuje firmowy samochód.
+
 ● Kurier - osoba rozpoczynająca pracę przy użyciu aplikacji. Odpowiada za stan
 techniczny auta oraz bezpieczeństwo paczek. Przewozi paczki między
 paczkomatami lub przewozi je do magazynu. Może sam zdecydować jaki
 paczkomat chce obsłużyć.
+
 ● Pracownik magazynu - osoba odpowiedzialna za przenoszenie paczek
 pomiędzy samochodami transportowymi na terenie magazynu.
+
 ● Klient - osoba korzystająca z systemu w celu nadania lub odebrania paczki. Do
 interakcji z systemem wykorzystuje aplikację mobilną.
