@@ -91,3 +91,9 @@ dostarczenia paczek.
 20. Jako “Kurier” chciałbym, aby system informatyczny pozwalał mi w łatwy sposób
 otworzyć skrytkę w paczkomacie w celu odebrania lub włożenia paczki do
 paczkomatu.
+21. Jako “Kurier” chciałbym, aby system informatyczny automatycznie zmieniał status
+paczki po jej włożeniu lub wyjęciu z paczkomatu.
+22. Jako “Kurier” chciałbym, za pomocą systemu informatycznego sprawdzać o jakim
+priorytecie jest dana paczka.
+23. Jako “Kurier” chciałbym mieć możliwość zgłoszenia problemów z funkcjonowaniem
+paczkomatu.
