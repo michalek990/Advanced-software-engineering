@@ -109,3 +109,5 @@ tym, który paczkomat zawiera paczki do odebrania.
 o tym gdzie ma dostarczyć daną paczkę.
 5. Zgłoszenie uszkodzenia towaru - przesłanie przez system informatyczny do
 administratora informacji odnośnie uszkodzenia paczki
+6. Zgłaszanie awarii paczkomatu - przesłanie do systemu informatycznego informacji o
+uszkodzeniu lub awarii paczkomatu.
