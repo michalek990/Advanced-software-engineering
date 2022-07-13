@@ -48,3 +48,15 @@ pomiędzy samochodami transportowymi na terenie magazynu.
 
 ● Klient - osoba korzystająca z systemu w celu nadania lub odebrania paczki. Do
 interakcji z systemem wykorzystuje aplikację mobilną.
+
+# HISTORYJKI UŻYTKOWNIKA
+1. Jako “Administrator” chciałbym mieć możliwość zalogowania się do systemu aby
+mieć możliwość wykonywania swojej pracy.
+2. Jako “Administrator” chciałbym mieć możliwość zarządzania kontami innych
+użytkowników systemu informatycznego.
+3. Jako “Administrator” chciałbym mieć możliwość dostępu oraz edycji bazy danych
+żeby móc wprowadzać do systemu nowe dane oraz modyfikować dane już istniejące.
+4. Jako “Kierowca” chciałbym otrzymać informację o tym którym samochodem mam
+jechać aby dostarczyć paczki.
+5. Jako “Kierowca” chciałbym otrzymać informację o lokalizacji magazynu do którego
+mam dostarczyć paczki.
