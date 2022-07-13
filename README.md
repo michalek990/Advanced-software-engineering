@@ -60,3 +60,15 @@ użytkowników systemu informatycznego.
 jechać aby dostarczyć paczki.
 5. Jako “Kierowca” chciałbym otrzymać informację o lokalizacji magazynu do którego
 mam dostarczyć paczki.
+6. Jako “Kierowca” chciałbym mieć możliwość zgłoszenia zrealizowania dostawy aby
+pracownicy sortowni mogli rozładować mój samochód.
+7. Jako “Kierowca” chciałbym mieć możliwość podania powodu opóźnienia lub
+uszkodzenia towaru jeżeli takie wystąpi.
+8. Jako “Pracownik magazynu” chciałbym, by informacje o przesyłce wyświetlały się w
+systemie po zeskanowaniu kodu QR.
+9. Jako “Pracownik magazynu” chciałbym, żeby system informatyczny wyświetlał
+informacje o tym, gdzie ma zostać skierowana paczka w zależności od jej statusu,
+abym wiedział dokąd ją przetransportować.
+10. Jako “Pracownik magazynu” chciałbym mieć możliwość potwierdzenia odbioru i
+przekazania dalej przesyłki, aby zaktualizować informacje o lokalizacji przesyłki w
+systemie
