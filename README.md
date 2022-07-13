@@ -105,3 +105,7 @@ funkcjonalność:
 2. Wyszukiwanie punktów odbioru - szukanie przez kierowców zleceń do odbioru.
 3. Odbieranie paczek - przesłanie przez system informatyczny do kierowcy informacji o
 tym, który paczkomat zawiera paczki do odebrania.
+4. Dostarczanie paczek - przesłanie przez system informatyczny do kierowcy informacji
+o tym gdzie ma dostarczyć daną paczkę.
+5. Zgłoszenie uszkodzenia towaru - przesłanie przez system informatyczny do
+administratora informacji odnośnie uszkodzenia paczki
