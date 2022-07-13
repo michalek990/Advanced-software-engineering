@@ -72,3 +72,22 @@ abym wiedział dokąd ją przetransportować.
 10. Jako “Pracownik magazynu” chciałbym mieć możliwość potwierdzenia odbioru i
 przekazania dalej przesyłki, aby zaktualizować informacje o lokalizacji przesyłki w
 systemie
+11. Jako “Klient” chciałbym mieć możliwość śledzenia statusu przesyłki.
+12. Jako “Klient” chciałbym mieć możliwość przekierowania paczki.
+13. Jako “Klient” chciałbym, żeby aplikacja pokazywała położenie paczkomatów na
+mapie.
+14. Jako “Klient” chciałbym mieć możliwość nadania paczki w paczkomacie z pomocą
+aplikacji.
+15. Jako “Klient” chciałbym, żeby system informatyczny generował etykiety które mają
+być umieszczone na paczce.
+16. Jako “Klient” chciałbym mieć możliwość odebrania paczki z paczkomatu z pomocą
+aplikacji.
+17. Jako “Kurier” jestem zobowiązany poinformować swojego przełożonego o możliwych
+zdarzeniach losowych, które wydłużają czas dostawy paczki.
+18. Jako “Kurier” chciałbym, aby system informatyczny umożliwiał mi wybranie zlecenia
+odebrania/dostarczenia paczki z listy dostępnych zleceń.
+19. Jako “Kurier” chciałbym, aby system informatyczny wskazywał mi miejsca
+dostarczenia paczek.
+20. Jako “Kurier” chciałbym, aby system informatyczny pozwalał mi w łatwy sposób
+otworzyć skrytkę w paczkomacie w celu odebrania lub włożenia paczki do
+paczkomatu.
