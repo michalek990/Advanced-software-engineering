@@ -97,3 +97,8 @@ paczki po jej włożeniu lub wyjęciu z paczkomatu.
 priorytecie jest dana paczka.
 23. Jako “Kurier” chciałbym mieć możliwość zgłoszenia problemów z funkcjonowaniem
 paczkomatu.
+
+#WYMAGANIA FUNKCJONALNE
+W ramach projektowanego systemu, dla aktora „Kurier” przewidziano następującą
+funkcjonalność:
+1. Logowanie do aplikacji - rozpoczęcie pracy i przydzielenie auta do kierowcy.
