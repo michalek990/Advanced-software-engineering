@@ -135,3 +135,5 @@ lokalizacji przesyłki.
 4. Przekierowanie - zmiana paczkomatu, do którego ma zostać doręczona paczka.
 5. Odebranie paczki - wykorzystanie systemu informatycznego do odebrania paczki w
 wybranym przez klienta paczkomacie
+6. Ustawienie metody płatności - powiązanie karty bankowej z kontem klienta.
+7. Wykonanie płatności - opłacenie przesyłki przez klienta.
