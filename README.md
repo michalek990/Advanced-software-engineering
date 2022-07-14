@@ -118,3 +118,6 @@ następującą funkcjonalność:
 1. Wyświetlanie danych o przesyłce - po zeskanowaniu kodu QR paczki wyświetlają się
 informacje o paczce, między innymi o tym, gdzie trzeba przetransportować paczkę na
 terenie magazynu.
+2. Potwierdzenie odbioru przesyłki - po zeskanowaniu kodu QR paczki w systemie
+powinna zostać zaktualizowana informacja o lokalizacji paczki tym samym
+potwierdzając jej dotarcie do określonej sortowni.
