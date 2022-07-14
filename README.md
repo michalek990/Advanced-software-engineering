@@ -123,3 +123,10 @@ powinna zostać zaktualizowana informacja o lokalizacji paczki tym samym
 potwierdzając jej dotarcie do określonej sortowni.
 3. Potwierdzenie nadania przesyłki - przesłanie do systemu informatycznego informacji
 o miejscu do którego została nadana paczka
+
+
+W ramach projektowanego systemu, dla aktora “Klient” przewidziano następującą
+funkcjonalność:
+1. Nadanie paczki - wykorzystanie systemu informatycznego do nadania paczki w
+wybranym przez klienta paczkomacie.
+2. Wybór priorytetu - wybór priorytetu z jaki
