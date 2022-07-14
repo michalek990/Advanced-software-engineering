@@ -129,6 +129,9 @@ W ramach projektowanego systemu, dla aktora “Klient” przewidziano następuj�
 funkcjonalność:
 1. Nadanie paczki - wykorzystanie systemu informatycznego do nadania paczki w
 wybranym przez klienta paczkomacie.
-2. Wybór priorytetu - wybór priorytetu z jaki
+2. Wybór priorytetu - wybór priorytetu z jakim ma być nadana paczka.
 3. Śledzenie paczki - funkcjonalność umożliwiająca śledzenie aktualnego statusu i
 lokalizacji przesyłki.
+4. Przekierowanie - zmiana paczkomatu, do którego ma zostać doręczona paczka.
+5. Odebranie paczki - wykorzystanie systemu informatycznego do odebrania paczki w
+wybranym przez klienta paczkomacie
