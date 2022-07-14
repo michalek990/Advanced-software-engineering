@@ -130,3 +130,5 @@ funkcjonalność:
 1. Nadanie paczki - wykorzystanie systemu informatycznego do nadania paczki w
 wybranym przez klienta paczkomacie.
 2. Wybór priorytetu - wybór priorytetu z jaki
+3. Śledzenie paczki - funkcjonalność umożliwiająca śledzenie aktualnego statusu i
+lokalizacji przesyłki.
