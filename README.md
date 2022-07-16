@@ -137,3 +137,7 @@ lokalizacji przesyłki.
 wybranym przez klienta paczkomacie
 6. Ustawienie metody płatności - powiązanie karty bankowej z kontem klienta.
 7. Wykonanie płatności - opłacenie przesyłki przez klienta.
+
+W ramach projektowanego systemu, dla aktora „Kierowca” przewidziano następującą
+funkcjonalność:
+1. Przyjęcie zlecenia - Przesłanie do systemu potwierdzenia o odebraniu zlecenia na przewóz przesyłek
