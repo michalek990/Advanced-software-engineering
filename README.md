@@ -144,3 +144,8 @@ funkcjonalność:
 2. Raport z przewozu - Złożenie raportu na temat dostarczonych paczek do magazynu
 docelowego.
 3. Dokumentacja - Przesyłanie przez system informatyczny faktur paliwowych.
+4. Zgłoszenie uszkodzenia towaru - przesłanie przez system informatyczny informacji
+odnośnie uszkodzenia paczki
+
+W ramach projektowanego systemu, dla aktora “Administrator” przewidziano następującą
+funkcjonalność:
