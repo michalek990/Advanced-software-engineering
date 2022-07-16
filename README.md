@@ -149,3 +149,5 @@ odnośnie uszkodzenia paczki
 
 W ramach projektowanego systemu, dla aktora “Administrator” przewidziano następującą
 funkcjonalność:
+1. Logowanie - funkcjonalność związana z uzyskaniem dostępu do treści i
+funkcjonalności przeznaczonych dla administratora systemu.
