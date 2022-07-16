@@ -143,3 +143,4 @@ funkcjonalność:
 1. Przyjęcie zlecenia - Przesłanie do systemu potwierdzenia o odebraniu zlecenia na przewóz przesyłek
 2. Raport z przewozu - Złożenie raportu na temat dostarczonych paczek do magazynu
 docelowego.
+3. Dokumentacja - Przesyłanie przez system informatyczny faktur paliwowych.
