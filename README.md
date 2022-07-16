@@ -151,3 +151,7 @@ W ramach projektowanego systemu, dla aktora “Administrator” przewidziano nas
 funkcjonalność:
 1. Logowanie - funkcjonalność związana z uzyskaniem dostępu do treści i
 funkcjonalności przeznaczonych dla administratora systemu.
+2. Dodawanie pracowników do systemu - możliwość dodawania pracowników do
+systemu oraz nadawania im odpowiednich ról, np. administrator, pracownik sortowni
+itd. Role określają uprawnienia użytkownika systemu i związane z tym dostępne
+funkcjonalności systemu dla tego użytkownika. 
