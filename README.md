@@ -163,3 +163,9 @@ pierwotnego punktu doręczenia przesyłki.
 5. Zarządzanie paczkomatami i flotą samochodów - funkcjonalność związania z
 dodawaniem i usuwaniem z systemu paczkomatów i samochodów oraz możliwość
 zmiany ich statusu.
+
+
+# WYMAGANIA NIEFUNKCJONALNE
+1. Jako serwer webowy system powinien wykorzystywać Apache HTTP Server.
+2. System powinien wykorzystywać MySQL w roli systemu zarządzania bazami danych.
+3. Jako język programowania po stronie serwera powinien być wykorzystany język PHP.
