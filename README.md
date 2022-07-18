@@ -160,3 +160,8 @@ zarządzania kontami pracowników. Administrator ma możliwość dezaktywacji ko
 pracownika przy jednoczesnym zachowaniu wszystkich danych na jego temat,
 zresetowanie hasła i loginu na prośbę pracownika oraz edytowania jego danych.
 Ponadto administrator może edytować uprawnienia pracowników.
+4. Zarządzanie przesyłkami - administrator ma możliwość ręcznego wprowadzania i
+edytowania statusu przesyłki, oraz do momentu ustawienia statusu paczki na “w
+realizacji” Opcja zmiany punktu doręczenia przesyłki jest realizowana na zlecenie
+klienta w przypadku gdy ten zmienił zdanie lub pomylił się przy wybieraniu
+pierwotnego punktu doręczenia przesyłki.
