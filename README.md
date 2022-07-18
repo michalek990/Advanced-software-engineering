@@ -165,3 +165,6 @@ edytowania statusu przesyłki, oraz do momentu ustawienia statusu paczki na “w
 realizacji” Opcja zmiany punktu doręczenia przesyłki jest realizowana na zlecenie
 klienta w przypadku gdy ten zmienił zdanie lub pomylił się przy wybieraniu
 pierwotnego punktu doręczenia przesyłki.
+5. Zarządzanie paczkomatami i flotą samochodów - funkcjonalność związania z
+dodawaniem i usuwaniem z systemu paczkomatów i samochodów oraz możliwość
+zmiany ich statusu.
