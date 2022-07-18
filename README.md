@@ -155,3 +155,8 @@ funkcjonalności przeznaczonych dla administratora systemu.
 systemu oraz nadawania im odpowiednich ról, np. administrator, pracownik sortowni
 itd. Role określają uprawnienia użytkownika systemu i związane z tym dostępne
 funkcjonalności systemu dla tego użytkownika. 
+3. Zarządzanie pracownikami - W ramach tej funkcjonalności przewidziano możliwość
+zarządzania kontami pracowników. Administrator ma możliwość dezaktywacji konta
+pracownika przy jednoczesnym zachowaniu wszystkich danych na jego temat,
+zresetowanie hasła i loginu na prośbę pracownika oraz edytowania jego danych.
+Ponadto administrator może edytować uprawnienia pracowników.
