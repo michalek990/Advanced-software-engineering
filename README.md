@@ -99,8 +99,7 @@ priorytecie jest dana paczka.
 paczkomatu.
 
 # WYMAGANIA FUNKCJONALNE
-W ramach projektowanego systemu, dla aktora „Kurier” przewidziano następującą
-funkcjonalność:
+## W ramach projektowanego systemu, dla aktora „Kurier” przewidziano następującą funkcjonalność:
 1. Logowanie do aplikacji - rozpoczęcie pracy i przydzielenie auta do kierowcy.
 2. Wyszukiwanie punktów odbioru - szukanie przez kierowców zleceń do odbioru.
 3. Odbieranie paczek - przesłanie przez system informatyczny do kierowcy informacji o
@@ -113,8 +112,7 @@ administratora informacji odnośnie uszkodzenia paczki
 uszkodzeniu lub awarii paczkomatu.
 
 
-W ramach projektowanego systemu, dla aktora „Pracownik magazynu” przewidziano
-następującą funkcjonalność:
+## W ramach projektowanego systemu, dla aktora „Pracownik magazynu” przewidziano następującą funkcjonalność:
 1. Wyświetlanie danych o przesyłce - po zeskanowaniu kodu QR paczki wyświetlają się
 informacje o paczce, między innymi o tym, gdzie trzeba przetransportować paczkę na
 terenie magazynu.
@@ -125,8 +123,7 @@ potwierdzając jej dotarcie do określonej sortowni.
 o miejscu do którego została nadana paczka
 
 
-W ramach projektowanego systemu, dla aktora “Klient” przewidziano następującą
-funkcjonalność:
+## W ramach projektowanego systemu, dla aktora “Klient” przewidziano następującą funkcjonalność:
 1. Nadanie paczki - wykorzystanie systemu informatycznego do nadania paczki w
 wybranym przez klienta paczkomacie.
 2. Wybór priorytetu - wybór priorytetu z jakim ma być nadana paczka.
@@ -138,8 +135,7 @@ wybranym przez klienta paczkomacie
 6. Ustawienie metody płatności - powiązanie karty bankowej z kontem klienta.
 7. Wykonanie płatności - opłacenie przesyłki przez klienta.
 
-W ramach projektowanego systemu, dla aktora „Kierowca” przewidziano następującą
-funkcjonalność:
+## W ramach projektowanego systemu, dla aktora „Kierowca” przewidziano następującąfunkcjonalność:
 1. Przyjęcie zlecenia - Przesłanie do systemu potwierdzenia o odebraniu zlecenia na przewóz przesyłek
 2. Raport z przewozu - Złożenie raportu na temat dostarczonych paczek do magazynu
 docelowego.
@@ -147,8 +143,7 @@ docelowego.
 4. Zgłoszenie uszkodzenia towaru - przesłanie przez system informatyczny informacji
 odnośnie uszkodzenia paczki
 
-W ramach projektowanego systemu, dla aktora “Administrator” przewidziano następującą
-funkcjonalność:
+## W ramach projektowanego systemu, dla aktora “Administrator” przewidziano następującą funkcjonalność:
 1. Logowanie - funkcjonalność związana z uzyskaniem dostępu do treści i
 funkcjonalności przeznaczonych dla administratora systemu.
 2. Dodawanie pracowników do systemu - możliwość dodawania pracowników do
