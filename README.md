@@ -179,3 +179,7 @@ działania.
 sekundy.
 8. Użytkownik w aplikacji powinien bez problemu znaleźć interesującą go przesyłkę a
 następnie sprawdzić jej status bez wchodzenia w interakcję z działem obsługi.
+9. Aplikacja mobilna powinna działać na urządzeniach z androidem w wersji Lollipop
+(5.0) i nowszych.
+10. Aplikacja mobilna powinna działać na urządzeniach z systemem iOS w wersji 13 i
+nowszych. 
