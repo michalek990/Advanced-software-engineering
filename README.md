@@ -169,3 +169,5 @@ zmiany ich statusu.
 1. Jako serwer webowy system powinien wykorzystywać Apache HTTP Server.
 2. System powinien wykorzystywać MySQL w roli systemu zarządzania bazami danych.
 3. Jako język programowania po stronie serwera powinien być wykorzystany język PHP.
+4. W przypadku aplikacji mobilnej na system android wykorzystywanym językiem
+programowania powinna być Java.
