@@ -171,3 +171,5 @@ zmiany ich statusu.
 3. Jako język programowania po stronie serwera powinien być wykorzystany język PHP.
 4. W przypadku aplikacji mobilnej na system android wykorzystywanym językiem
 programowania powinna być Java.
+5. W przypadku aplikacji mobilnej na system iOS wykorzystywanym językiem
+programowania powinien być Swift
