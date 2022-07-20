@@ -173,3 +173,5 @@ zmiany ich statusu.
 programowania powinna być Java.
 5. W przypadku aplikacji mobilnej na system iOS wykorzystywanym językiem
 programowania powinien być Swift
+6. System powinien zapewniać stopień ciągłej dostępności na poziomie 99.9% czasu
+działania.
