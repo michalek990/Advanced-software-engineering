@@ -177,3 +177,5 @@ programowania powinien być Swift
 działania.
 7. System powinien odpowiadać na żądanie użytkownika w czasie nie dłuższym niż 1,5
 sekundy.
+8. Użytkownik w aplikacji powinien bez problemu znaleźć interesującą go przesyłkę a
+następnie sprawdzić jej status bez wchodzenia w interakcję z działem obsługi.
