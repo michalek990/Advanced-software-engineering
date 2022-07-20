@@ -183,3 +183,4 @@ następnie sprawdzić jej status bez wchodzenia w interakcję z działem obsług
 (5.0) i nowszych.
 10. Aplikacja mobilna powinna działać na urządzeniach z systemem iOS w wersji 13 i
 nowszych. 
+11. Aplikacja mobilna powinna być zintegrowana z systemem płatności Google Pay.
