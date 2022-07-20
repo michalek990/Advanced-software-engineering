@@ -175,3 +175,5 @@ programowania powinna być Java.
 programowania powinien być Swift
 6. System powinien zapewniać stopień ciągłej dostępności na poziomie 99.9% czasu
 działania.
+7. System powinien odpowiadać na żądanie użytkownika w czasie nie dłuższym niż 1,5
+sekundy.
