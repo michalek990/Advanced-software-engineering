@@ -185,16 +185,105 @@ następnie sprawdzić jej status bez wchodzenia w interakcję z działem obsług
 nowszych. 
 11. Aplikacja mobilna powinna być zintegrowana z systemem płatności Google Pay.
 
-![image](https://user-images.githubusercontent.com/93988101/194931965-b2ee7ddd-4ef8-4d8d-93a1-1ce82dcc25b0.png)
-![image](https://user-images.githubusercontent.com/93988101/194932027-c53c71e3-a5bf-4127-a865-4e45c797828a.png)
-![image](https://user-images.githubusercontent.com/93988101/194932096-efe99728-9550-4d54-840e-4daaeaa40167.png)
-![image](https://user-images.githubusercontent.com/93988101/194932125-dd0c38f5-9e70-406b-9dd6-5e9285d80a16.png)
-![image](https://user-images.githubusercontent.com/93988101/194932154-7bf0750c-ce82-4f46-8bc1-85b146a24daf.png)
-![image](https://user-images.githubusercontent.com/93988101/194932160-0463f427-9fd2-4a56-b118-15704edb7079.png)
-![image](https://user-images.githubusercontent.com/93988101/194932179-5d20e3e3-d75f-4464-863b-4304da03ae53.png)
-![image](https://user-images.githubusercontent.com/93988101/194932189-718df86d-9660-4b18-a98b-fe5c5d6f700d.png)
-![image](https://user-images.githubusercontent.com/93988101/194932203-1e074065-1376-4a95-96c9-618f29d5c9e3.png)
-![image](https://user-images.githubusercontent.com/93988101/194932213-aaf18fb2-8fb4-41f3-9754-74a13aebb9d8.png)
-![image](https://user-images.githubusercontent.com/93988101/194932228-5252b4ea-e285-4e43-81de-8e5c4a5c3ec1.png)
+PRZYPADKI UŻYCIA
+Lista przypadków użycia dla “Administratora”:
+1. Utworzenie konta dla nowego pracownika - dodanie do systemu wewnętrznego
+nowego pracownika.
+2. Dezaktywacja konta pracownika - usunięcie konta danego pracownika.
+3. Dodanie danych nowego obiektu - dodanie rekordu do bazy danych.
+4. Edycja danych istniejącego obiektu - usuwanie i zmienianie danych istniejących
+rekordów w bazie danych. 
+5. Weryfikacja konta kuriera - zweryfikowanie nowo założonego konta przez osobę
+która chce zostać kurierem w Express Paczka.
+Lista przypadków użycia dla “Kurier”:
+1. Utworzenie konta Kuriera - rejestracja poprzez aplikację zgłaszająca chęć danej osoby
+do podjęcia pracy jako kuriera w Express Paczka.
+2. Rozpoczęcie pracy kuriera - rozpoczęcie pracy przez kuriera polegające na
+zalogowaniu się do aplikacji i uzupełnieniu wszystkich danych dotyczących dnia
+pracy.
+3. Wyświetlenie listy zleceń - wyświetlanie przez aplikację mobilną listy wszystkich
+dostępnych zleceń na obszarze pracy kuriera.
+4. Przyjęcie zlecenia - wybranie z listy zlecenia na odbiór bądź dostarczenie przesyłek i
+rozpoczęcie jego realizacji.
+5. Dostarczenie paczek - dostarczenie przez kuriera paczek do paczkomatu.
+6. Zgłoszenie utrudnień w zleceniu - zgłoszenie nieprzewidzianego przypadku w
+aplikacji mobilnej.
+7. Potwierdzenie dostarczenia paczek - potwierdzenie dostarczenia paczki w aplikacji
+mobilnej
+8. Utworzenie konta kuriera - tworzenie konta za pomocą aplikacji mobilnej
+Lista przypadków użycia dla “Pracownik Magazynu”:
+1. Przekazanie paczki kierowcy - zeskanowanie kodu QR paczki na stanowisku 
+przeładunkowym
+2. Wydanie paczki kurierowi - zeskanowanie kodu QR paczki na stanowisku paczek 
+wydanych do dostarczania 
+3. Zgłoszenie usterki towaru - zeskanowanie kodu QR paczki oraz zaznaczenie 
+problemów z odbiorem na ekranie komputera
+4. Transport paczki na terenie magazynu - zeskanowanie kodu QR paczki oraz
+zaznaczenie pomyślnego odbioru.
+Lista przypadków użycia dla “Kierowca”:
+1. Odebranie zlecenia - Odebranie zlecenia na dostarczenie przesyłek z jednego 
+magazyny do drugiego.
+2. Dostarczenie paczek - Przewóz paczek z jednego magazynu do drugiego.
+3. Zgłoszenie utrudnień w dostawie - W Przypadku zaistnienia nieprzewidzianego
+zdarzenia które może utrudnić lub opóźnić dostawę paczek Kierowca ma możliwość
+poinformowania o tym swoich przełożonych.
+
+Lista przypadków użycia dla “Klient”:
+1. Przygotowanie paczki do nadania - zarejestrowanie nowej paczki w systemie oraz
+pozyskanie etykiety z danymi paczki.
+2. Rezygnacja z nadania paczki - możliwość zrezygnowania z nadania paczki gdy ta nie
+została jeszcze włożona do paczkomatu.
+3. Nadanie paczki - włożenie paczki z kodem QR do paczkomatu.
+4. Odebranie paczki - wyjęcie paczki z paczkomatu za pomocą kodu QR
+5. Śledzenie paczki - sprawdzanie stanu i położenia paczki
+6. Archiwizacja paczki - Przeniesienie przez klienta w aplikacji mobilnej
+odebranych/nadanych paczek do archiwum.
+7. Przekierowanie paczki - zmiana adresu doręczenia paczki
+8. Utworzenie konta - stworzenie nowego użytkownika w bazie danych
+9. Edycja konta - usuwanie, zmienianie dodawanie danych odnośnie konta.
+Lista przypadków użycia dla “Paczkomat”:
+1. Otwieranie skrytek - otworzenie wybranych skrytek za pomocą systemu.
+Lista przypadków użycia dla “System płatności”:
+1. Płatność - przyjęcie i przetworzenie płatności za nadanie paczki a następnie określenie
+czy płatność się powiodła.  
+
+SCENARIUSZE PRZYPADKÓW UŻYCIA
+S1. Utworzenie konta dla nowego pracownika
+S1.1. Opis
+Scenariusz przypadku użycia opisujący utworzenie konta w systemie wewnętrznym firmy dla
+nowego pracownika.
+ S1.2. Aktorzy
+Administrator.
+S1.3. Warunki początkowe
+Administrator otrzymał dane pracownika.
+S1.4. Warunki końcowe
+Administrator wprowadził dane pracownika do systemu oraz przekazał mu hasło i login do
+systemu.
+S1.5. Przebieg główny
+1. Administrator loguje się do systemu.
+2. System wyświetla informację zleceniu dodania nowego pracownika do systemu.
+3. Administrator rozpoczyna tworzenie konta dla pracownika.
+4. System tworzy powiązanie danych pracownika z jego kontem.
+5. Administrator nadaje odpowiednie uprawnienia dla konta pracownika.
+6. System generuje login i hasło dla pracownika.
+7. System przesyła dane uwierzytelniające na skrzynkę pocztową pracownika.
+8. Administrator potwierdza utworzenie konta.
+S1.6. Przebiegi alternatywne
+PA.7. Pracownik nie podał adresu e-mail.
+PA.7.1. System przesyła dane uwierzytelniające za pomocą wiadomości SMS na numer
+telefoniczny podany przez pracownika.
+PA.7.2. Powrót do punktu 8 przebiegu głównego.
+S1.7. Sytuacje wyjątkowe
+SW.1. Dane uwierzytelniające nie dotarły do pracownika.
+Akcja: System generuje nowe dane uwierzytelniające i ponownie nadaje je do pracownika.
+Jeżeli sytuacja powtórzy się kolejny raz system wysyła dane do pracownika innym sposobem. 
+
+SW.2. Dane uwierzytelniające wygasły.
+Akcja: System generuje nowe dane uwierzytelniające i ponownie nadaje je do pracownika.
+S1.8. Wymagania niefunkcjonalne
+1. Dane uwierzytelniające wygenerowane przez system powinny być jednorazowe oraz
+tracić ważność po upływie określonego czasu.
+S1.9.Uwagi i pytania otwarte 
+Brak
 
 
