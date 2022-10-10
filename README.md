@@ -247,3 +247,4 @@ Lista przypadków użycia dla “System płatności”:
 1. Płatność - przyjęcie i przetworzenie płatności za nadanie paczki a następnie określenie
 czy płatność się powiodła.  
 
+https://docs.google.com/viewer?url=https://raw.githubusercontent.com/degoes-consulting/lambdaconf-2015/master/speakers/jdegoes/intro-purescript/presentation.pdf
