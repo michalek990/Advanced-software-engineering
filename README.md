@@ -184,3 +184,17 @@ następnie sprawdzić jej status bez wchodzenia w interakcję z działem obsług
 10. Aplikacja mobilna powinna działać na urządzeniach z systemem iOS w wersji 13 i
 nowszych. 
 11. Aplikacja mobilna powinna być zintegrowana z systemem płatności Google Pay.
+
+![image](https://user-images.githubusercontent.com/93988101/194931965-b2ee7ddd-4ef8-4d8d-93a1-1ce82dcc25b0.png)
+![image](https://user-images.githubusercontent.com/93988101/194932027-c53c71e3-a5bf-4127-a865-4e45c797828a.png)
+![image](https://user-images.githubusercontent.com/93988101/194932096-efe99728-9550-4d54-840e-4daaeaa40167.png)
+![image](https://user-images.githubusercontent.com/93988101/194932125-dd0c38f5-9e70-406b-9dd6-5e9285d80a16.png)
+![image](https://user-images.githubusercontent.com/93988101/194932154-7bf0750c-ce82-4f46-8bc1-85b146a24daf.png)
+![image](https://user-images.githubusercontent.com/93988101/194932160-0463f427-9fd2-4a56-b118-15704edb7079.png)
+![image](https://user-images.githubusercontent.com/93988101/194932179-5d20e3e3-d75f-4464-863b-4304da03ae53.png)
+![image](https://user-images.githubusercontent.com/93988101/194932189-718df86d-9660-4b18-a98b-fe5c5d6f700d.png)
+![image](https://user-images.githubusercontent.com/93988101/194932203-1e074065-1376-4a95-96c9-618f29d5c9e3.png)
+![image](https://user-images.githubusercontent.com/93988101/194932213-aaf18fb2-8fb4-41f3-9754-74a13aebb9d8.png)
+![image](https://user-images.githubusercontent.com/93988101/194932228-5252b4ea-e285-4e43-81de-8e5c4a5c3ec1.png)
+
+
